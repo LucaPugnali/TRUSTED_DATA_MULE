@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "buffer": "^6.0.3",
+    "ethereumjs-util": "^7.1.5",
+    "node-fetch": "^3.3.2",
+    "node-fetch-npm": "^2.0.4",
+    "web3": "^4.4.0"
+  }
+}
